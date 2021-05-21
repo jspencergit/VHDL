@@ -1,4 +1,5 @@
--- Testbench created online at:
+-- Joseph Spencer
+--Testbench created online at:
 --   https://www.doulos.com/knowhow/perl/vhdl-testbench-creation-using-perl/
 -- Copyright Doulos Ltd
 
